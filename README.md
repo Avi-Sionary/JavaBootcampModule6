@@ -5,8 +5,9 @@ Summative Project 1: Console Applications
 
 Converts a user-entered number into a month. One version uses an if-else/else-if structure and the other uses a switch statement. Solution consists of the following two files:
 
-MonthConverterIf
-MonthConverterSwitch
+### MonthConverterIf
+
+### MonthConverterSwitch
 
 Both programs: 
 
@@ -20,9 +21,14 @@ Both programs:
 
 Consists of different array-related programs. Specifically:
 
-1. In a Java file called ArrayFunUserArray, the console reads five integers from the user, puts them in an array, and prints the array elements to the screen.
+### ArrayFunUserArray
 
-2. In a Java file called ArrayFunReverselt, the program declares the array [1, 2, 3, 4, 5], creates another array of equal length, and fills that array with values from the original array but in reverse order. Finally, both arrays are printed to the screen.
+The console reads five integers from the user, puts them in an array, and prints the array elements to the screen.
 
-3. In a Java file called ArrayFun5Words, the user gets five words from the user, puts them in an array, and prints the array elements to the screen.
+### ArrayFunReverselt
 
+The program declares the array [1, 2, 3, 4, 5], creates another array of equal length, and fills that array with values from the original array but in reverse order. Finally, both arrays are printed to the screen.
+
+### ArrayFun5Words
+
+The user gets five words from the user, puts them in an array, and prints the array elements to the screen.
