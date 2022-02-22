@@ -31,4 +31,4 @@ The program declares the array [1, 2, 3, 4, 5], creates another array of equal l
 
 ### ArrayFun5Words
 
-The user gets five words from the user, puts them in an array, and prints the array elements to the screen.
+The console gets five words from the user, puts them in an array, and prints the array elements to the screen.
